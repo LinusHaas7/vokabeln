@@ -12,7 +12,7 @@ Eine einfache App zum Lernen von Vokabeln (Englisch–Deutsch). Du lädst ein Fo
 2. Gehe im Repository auf **Settings → Pages**.
 3. Wähle bei „Branch“ **main** und den Ordner **/ (root)** aus und klicke auf **Save**.
 4. Nach etwa einer Minute ist die App erreichbar unter
-   `https://DEIN-NAME.github.io/REPO-NAME/`
+   `https://DEIN-NAME.github.io/REPO-NAME/ (diese App: https://linushaas7.github.io/vokabeln/)`
 
 Diesen Link kannst du an alle weitergeben.
 
